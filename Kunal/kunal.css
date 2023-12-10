@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading {
+  font-size: 70px;
+  font-weight: bold;
+  position: relative;
+  padding-top: 10vh;
+  font-family: "Space Grotesk", sans-serif;
+}
+.maincontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  height: 500px;
+}
+button {
+  margin: 100px;
+
+  height: 300px;
+  width: 300px;
+  border-radius: 10px;
+  border: none;
+  font-size: 30px;
+  padding: 20px;
+  font-family: "Manrope", sans-serif;
+  cursor: pointer;
+}
