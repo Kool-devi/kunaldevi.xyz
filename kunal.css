@@ -11,6 +11,7 @@
   padding-top: 10vh;
   font-family: "Space Grotesk", sans-serif;
 }
+
 .maincontainer {
   display: flex;
   align-items: center;
@@ -18,6 +19,7 @@
 
   height: 500px;
 }
+
 button {
   margin: 100px;
 
@@ -29,4 +31,9 @@ button {
   padding: 20px;
   font-family: "Manrope", sans-serif;
   cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
